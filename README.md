@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">🟢 Open to Work</h4>
+<h3 align="center">🟢 Open to Work</h4>
 
 ###
 
